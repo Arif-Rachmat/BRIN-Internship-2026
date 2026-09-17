@@ -26,7 +26,8 @@ This repository is organized into individual workspaces assign to different bran
 
 ### 📚 Index
 
-* [Assignment 01 — Placeholder]()
+1. Embedded Programming
+   * [Basic #0: Non-Blocking Blinky](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-0-NonBlocking-Blinky)
 
 <!-- ASSIGNMENTS:END -->
 
