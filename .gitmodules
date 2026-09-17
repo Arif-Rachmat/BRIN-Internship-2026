@@ -1,0 +1,3 @@
+[submodule "lib/millis"]
+	path = lib/millis
+	url = https://github.com/Arif-Rachmat-AVR/avr-millis.git
