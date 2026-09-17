@@ -26,7 +26,9 @@ This repository is organized into individual workspaces assign to different bran
 
 ### 📚 Index
 
-1. Embedded Programming
+1. Circuit/Electronics Design
+   * [Basic #0: Adjustable Linear Power Supply](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Basic-0-AdjLinearSupply)
+2. Embedded Programming
    * [Basic #0: Non-Blocking Blinky](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-0-NonBlocking-Blinky)
 
 <!-- ASSIGNMENTS:END -->
