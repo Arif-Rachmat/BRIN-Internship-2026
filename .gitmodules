@@ -1,0 +1,9 @@
+[submodule "lib/onewire"]
+	path = lib/onewire
+	url = https://github.com/Arif-Rachmat-AVR/avr-onewire.git
+[submodule "lib/ds18b20"]
+	path = lib/ds18b20
+	url = https://github.com/Arif-Rachmat-AVR/avr-ds18b20.git
+[submodule "lib/uart"]
+	path = lib/uart
+	url = https://github.com/Arif-Rachmat-AVR/avr-UART.git
