@@ -1,0 +1,3 @@
+[submodule "lib/uart"]
+	path = lib/uart
+	url = https://github.com/Arif-Rachmat-AVR/avr-UART.git
