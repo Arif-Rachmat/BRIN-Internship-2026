@@ -32,6 +32,7 @@ This repository is organized into individual workspaces assign to different bran
    * [Basic #0: Non-Blocking Blinky](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-0-NonBlocking-Blinky)
    * [Basic #1: UART](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-1-UART)
    * [Basic #2: ADC](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-2-ADC)
+   * [Intermediate #1: I2C - LCD w/ PCF8574](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Intermediate-1-I2C)
    * [Intermediate #3: 1-Wire DS18B20 Temperature Sensor](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Intermediate-3-Onewire-DS18b20)
 
 <!-- ASSIGNMENTS:END -->
