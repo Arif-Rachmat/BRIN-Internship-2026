@@ -1,0 +1,207 @@
+(footprint "MODULE_DS3231"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f190db5e-0945-4b4d-b8fa-586dbb99e789")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec6e5e3a-6429-4035-9b96-3d89caad32cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MODULE_DS3231"
+		(at 0 -6.62 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fddef051-52ca-42d3-9664-f806e4135e53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Reference" "REF**"
+		(at 0 -8.12 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a03c2f06-7b0e-47f7-8636-edd33c70b268")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -16.51 -11.43)
+		(end 22.225 11.43)
+		(radius 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "199a1801-a704-4a3f-97ef-25f33db738e8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "54cb8484-cdae-4ae6-b33f-b15a2d479c32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -15.24 6.35)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8c667b4f-4a80-44eb-ab63-c1a38703d351")
+	)
+	(pad "2" thru_hole circle
+		(at -15.24 3.81)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4d91d586-3184-4871-8fd6-dd88a52e667a")
+	)
+	(pad "3" thru_hole circle
+		(at -15.24 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5143f95d-440e-413a-8d98-50ffbafde303")
+	)
+	(pad "3" thru_hole rect
+		(at 20.32 3.81)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5d394be5-da60-4b00-a756-8ce9a57de93f")
+	)
+	(pad "4" thru_hole circle
+		(at -15.24 -1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "426aa108-1dbd-443c-8f60-3a5b957cb6dc")
+	)
+	(pad "4" thru_hole circle
+		(at 20.32 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "69a89668-7610-4b2a-aa7b-39f85ae3bfb4")
+	)
+	(pad "5" thru_hole circle
+		(at -15.24 -3.81)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3124bf18-9952-4932-9ca8-1b4d61ca3a01")
+	)
+	(pad "5" thru_hole circle
+		(at 20.32 -1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "12c9da85-ff57-4d4b-b78e-919bd6d6caa3")
+	)
+	(pad "6" thru_hole circle
+		(at -15.24 -6.35)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d02ef142-2da2-4e92-b088-4ea97e897586")
+	)
+	(pad "6" thru_hole circle
+		(at 20.32 -3.81)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c9dfcb67-3223-4923-b2e1-9546dae70149")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Resource/DS3231 RTC.step"
+		(offset
+			(xyz 2.75 0 11.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 -0 -0)
+		)
+	)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+		(offset
+			(xyz 20.32 3.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.step"
+		(offset
+			(xyz -15.25 6.34 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(offset
+			(xyz 20.32 3.8 11.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -0)
+		)
+	)
+)

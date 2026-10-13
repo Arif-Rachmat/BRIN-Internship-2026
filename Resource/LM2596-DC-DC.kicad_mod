@@ -1,0 +1,107 @@
+(footprint "LM2596-DC-DC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.05 -11.684 0)
+		(layer "F.SilkS")
+		(uuid "fcee48bb-11f2-4372-b480-ef9c3714cd87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LM2596-DC-DC"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c9df319b-ad8c-406b-92a0-9c048713689f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "923515bd-7261-4275-b19f-f8f243fd8f36")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f25cae3a-b8c1-4064-9d7e-2c30c4bd0cf3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -21.55 -10.4)
+		(end 21.55 10.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "85ad45b7-67cf-49fe-8589-2e96f033871e")
+	)
+	(pad "1" thru_hole rect
+		(at -19.812 -8.636)
+		(size 2.54 2.54)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "974e5c7a-56be-4e5e-a364-d4d5848e905f")
+	)
+	(pad "2" thru_hole rect
+		(at -19.812 8.636)
+		(size 2.54 2.54)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0412bcb5-0d60-4f46-a1b7-1dfca33795ed")
+	)
+	(pad "3" thru_hole rect
+		(at 19.812 8.636)
+		(size 2.54 2.54)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c9bbc446-e347-4ae5-b457-7e44d85146ff")
+	)
+	(pad "4" thru_hole rect
+		(at 19.812 -8.636)
+		(size 2.54 2.54)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4a714a6f-cbed-4fdd-a000-417faa99b0f8")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Resource/YAAJ_DCDC_StepDown_LM2596_PinHeaders_cp.step"
+		(offset
+			(xyz -19.81 8.64 0)
+		)
+		(scale
+			(xyz 0.975 0.97 0.97)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
