@@ -30,6 +30,7 @@ This repository is organized into individual workspaces assign to different bran
    * [Basic #0: Adjustable Linear Power Supply](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Basic-0-AdjLinearSupply)
    * [Capstone #0: Raspberry PI Dev Board](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Capstone-0-RasPiDevBoard)
    * [Capstone #1: Tomography Switch Board Matrix](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Capstone-1-TomographySwitchBoard)
+     * [Capstone #1.1: TomographySwitchBoardV2](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Capstone-1.1-TomographySwitchBoardV2main)
 2. Embedded Programming
    * [Basic #0: Non-Blocking Blinky](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-0-NonBlocking-Blinky)
    * [Basic #1: UART](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Embedded-Basic-1-UART)
