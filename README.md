@@ -22,6 +22,14 @@ A collection of technical work, experiments, notes, and deliverables developed t
 
 This repository is organized into individual workspaces assign to different branch, each containing the relevant implementation, documentation, experiments, and supporting files.
 
+## Download / Cloning
+
+To download or clone a specific branch, use this command:
+
+```shell
+git clone --branch=<branch-name> https://github.com/Arif-Rachmat/BRIN-Internship-2026.git <output-directory>
+```
+
 <!-- ASSIGNMENTS:START -->
 
 ### 📚 Index
