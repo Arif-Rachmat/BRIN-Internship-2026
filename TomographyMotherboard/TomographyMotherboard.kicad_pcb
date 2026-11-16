@@ -6387,7 +6387,7 @@
 		(descr "Through hole angled pin header, 1x23, 2.54mm pitch, 6mm pin length, single row")
 		(tags "Through hole angled pin header THT 1x23 2.54mm single row")
 		(property "Reference" "J17"
-			(at 4.385 -2.27 0)
+			(at 0 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "ea882c0c-8a31-4c8c-876d-e5e7ad3749da")
 			(effects
@@ -9655,7 +9655,7 @@
 		(descr "Through hole angled socket strip, 1x23, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 1x23 2.54mm single row")
 		(property "Reference" "J26"
-			(at -4.38 -2.77 0)
+			(at 0 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "2840f8bf-edcd-455b-9afa-c6c1b251ad17")
 			(effects
