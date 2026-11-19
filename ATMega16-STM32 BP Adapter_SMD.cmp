@@ -1,0 +1,51 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-10-22T15:29:48
+
+BeginCmp
+TimeStamp = b916295e-1b57-46f9-9273-159f4691f8db
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 40bc08f9-3a2f-4f1d-9e88-973f0258cc34
+Path = /e78fc235-1b19-482c-abdd-2522d9252cfe
+Reference = J2;
+ValeurCmp = Conn_01x20;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical_SMD_Pin1Left;
+EndCmp
+
+BeginCmp
+TimeStamp = 510ff05c-dbc1-4ceb-b860-f9dafba870e1
+Path = /e37592e3-1545-4788-b9fc-c36e97c90089
+Reference = J1;
+ValeurCmp = Conn_01x20;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical_SMD_Pin1Right;
+EndCmp
+
+BeginCmp
+TimeStamp = f1c10d00-9646-4f14-bb7a-cee53d2b6089
+Path = 
+Reference = U2;
+ValeurCmp = YAAJ_BluePill_Part_Like;
+IdModule  = MCU_Custom:BLUEPILL_SILKSCREEN;
+EndCmp
+
+BeginCmp
+TimeStamp = c2e71587-3e0d-48d0-a54b-4cf16ddcd920
+Path = /c895d8c6-91dc-46de-9b26-91bcaabda1e6
+Reference = J4;
+ValeurCmp = Conn_01x20;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical_SMD_Pin1Left;
+EndCmp
+
+BeginCmp
+TimeStamp = d6a0e91f-9a7e-4bb0-b0fc-df1b7cd5034e
+Path = /fc1c99db-3c0a-41a9-8e6a-66e2fd31f572
+Reference = J3;
+ValeurCmp = Conn_01x20;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical_SMD_Pin1Right;
+EndCmp
+
+EndListe

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MCU_Custom") (type "KiCad") (uri "C:/Magang BRIN/BRIN-Internship-Term-7-2026/KiCAD/Part Lib/MCU_Custom.pretty") (options "") (descr ""))
+)
