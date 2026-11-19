@@ -36,6 +36,7 @@ git clone --branch=<branch-name> https://github.com/Arif-Rachmat/BRIN-Internship
 
 1. Circuit/Electronics Design
    * [Basic #0: Adjustable Linear Power Supply](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Basic-0-AdjLinearSupply)
+   * [Intermediate #1: ATmega16–STM32BluePill Breakout/Adapter](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Intermediate-1-ATmega16-STM32BP-Adapter)
    * [Capstone #0: Raspberry PI Dev Board](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Capstone-0-RasPiDevBoard)
    * [Capstone #1: Tomography Switch Board Matrix](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Capstone-1-TomographySwitchBoard)
      * [Capstone #1.1: TomographySwitchBoardV2](https://github.com/Arif-Rachmat/BRIN-Internship-2026/tree/Circuit-Capstone-1.1-TomographySwitchBoardV2main)
